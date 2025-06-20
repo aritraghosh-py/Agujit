@@ -11,7 +11,7 @@ commands:
   package:
     - "nano inxi"
   start:
-    - "python3 agujit.py"
+    - "python3 Agujit.py"
 
 env:
   - "ENVIRONMENT=production"
